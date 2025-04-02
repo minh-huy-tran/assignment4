@@ -60,4 +60,14 @@ h3{
 	background-color: mediumpurple;
 }
 
+.entry-title{
+	background-color: none;
+	color: black;
+	text-align: center;
+}
+
+#colophon{
+	background-color: mediumpurple;
+	color:white;
+}
 
