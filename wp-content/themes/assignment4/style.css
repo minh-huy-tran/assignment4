@@ -7,11 +7,57 @@ Template:       bake-blog
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
 
-#masthead{
+#masthead {
 	background-color:mediumpurple;
 	color:white;
 }
 
-a{
+.site-description{
+	color:white;
+}
+
+#product_search_form.green-box #searchsubmit{
 	background-color:mediumpurple;
 }
+
+.al_archive {
+	box-shadow: 0 0 5px mediumpurple;
+	border: 1px solid mediumpurple;
+}
+
+#main-content .al_archive a h3.product-name, #page-container .al_archive a h3.product-name, #primary .page .entry-content .al_archive h3.product-name, #product_listing .al_archive .product-name, #product_listing .al_archive h3.product-name, .al_archive .product-name, .product-list .al_archive .product-name, .product-subcategories .al_archive .product-name{
+	background-color:rgba(147, 112, 219, 0.8);
+	box-shadow:0 0 5px mediumpurple
+}
+
+h3{
+	background-color:mediumpurple;
+}
+
+#responsive-filters-button button green-box ic-design{
+	background-color: mediumpurple;
+}
+
+.al_archive {
+	border: 1px solid mediumpurple;
+	box-shadow: 0 0 5px mediumpurple;
+}
+
+#product_search_form.green-box #searchsubmit {
+	background-color: mediumpurple;
+}
+
+.green-box.button {
+	background-color: mediumpurple;
+}
+
+.al_archive a h3.product-name, #page-container .al_archive a h3.product-name, #primary .page .entry-content .al_archive h3.product-name, #product_listing .al_archive .product-name, #product_listing .al_archive h3.product-name, .al_archive .product-name, .product-list .al_archive .product-name, .product-subcategories .al_archive .product-name{
+	box-shadow: 0 0 5px rgba (147, 112, 219, 0.5);
+	background-color: mediumpurple;
+}
+
+.green-box .price-filter-submit[type=submit], .green-box .product-search-submit {
+	background-color: mediumpurple;
+}
+
+
