@@ -12,3 +12,4 @@
 [01-Apr-2025 07:33:31 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/modules/price/index.php on line 23
 [01-Apr-2025 07:34:04 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/modules/price/index.php on line 23
 [01-Apr-2025 07:35:27 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/modules/price/index.php on line 23
+[02-Apr-2025 04:40:47 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/assignment4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
