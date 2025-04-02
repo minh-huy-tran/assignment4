@@ -62,11 +62,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/cook-book/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/products/cookie-kit/
         </loc>
     </url>

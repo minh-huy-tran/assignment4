@@ -71,3 +71,7 @@ h3{
 	color:white;
 }
 
+#container.content-area.product-catalog .price-value.red-price, #product_page.boxed #product_details table tr td.price-value.red-price, .al_product.boxed #product_details table tr td.price-value.red-price, .price-value.red-price, .product-price.red-price {
+	background-color: mediumpurple;
+}
+
