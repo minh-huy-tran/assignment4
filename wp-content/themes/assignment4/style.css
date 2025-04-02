@@ -1,0 +1,13 @@
+/*
+Theme Name:     assignment4
+Description:    
+Author:         minhhuytran
+Template:       bake-blog
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+header{
+	background-color:mediumpurple;
+	color:white;
+}
