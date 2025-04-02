@@ -31,7 +31,8 @@ Template:       bake-blog
 }
 
 h3{
-	background-color:mediumpurple;
+	background-color:lightgrey;
+	text-align: center;
 }
 
 #responsive-filters-button button green-box ic-design{
@@ -75,3 +76,12 @@ h3{
 	background-color: mediumpurple;
 }
 
+#container.content-area.product-catalog .price-value.red-price, #product_page.boxed #product_details table tr td.price-value.red-price, .al_product.boxed #product_details table tr td.price-value.red-price, .price-value.red-price, .product-price.red-price{
+	color: mediumpurple;
+}
+
+.entry-title {
+	background-color:lightgrey;
+	color:black
+
+}
